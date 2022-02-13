@@ -7,12 +7,12 @@
             System.Console.WriteLine("-----   Matrizes   -----");
             System.Console.WriteLine("1. Criando uma matriz n x n:");
             System.Console.Write("Qual será a dimensão (n) da matriz? ");
-            int dim = int.Parse(Console.ReadLine());
+            int dim = Convert.ToInt32(Console.ReadLine());
             int[,] mat = new int[dim, dim];
             for(int i = 0; i < dim; i++){
                 for(int j = 0; j < dim; j++){
                     System.Console.Write("Digite o valor da posição [" + i + "][" + j + "]: ");
-                    mat[i,j] = int.Parse(Console.ReadLine());
+                    mat[i,j] = Convert.ToInt32(Console.ReadLine());
                 }
             }
             System.Console.WriteLine("\nMatriz digitada:");
@@ -30,7 +30,7 @@
             //-----------------------------------------------------------------------------------------
             System.Console.WriteLine("2. Fazendo a busca de um elemento na matriz:");
             System.Console.Write("Digite o valor a ser buscado: ");
-            int valor = int.Parse(Console.ReadLine());
+            int valor = Convert.ToInt32(Console.ReadLine());
             bool encontrado = false;
             int[] posicao = new int[2]{-1, -1};
             for(int i = 0; i < dim; i++){

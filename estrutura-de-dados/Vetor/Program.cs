@@ -13,7 +13,7 @@ namespace Vetor
             for(int i = 0; i < 4; i++)
             {
                 System.Console.Write("Digite um valor para a posição " + i + ": ");
-                arr[i] = int.Parse(System.Console.ReadLine());
+                arr[i] = Convert.ToInt32(Console.ReadLine());
             }
             System.Console.WriteLine("\nVetor digitado:");
             for(int i = 0; i < 4; i++)
@@ -29,7 +29,7 @@ namespace Vetor
 
             System.Console.WriteLine("2. Fazendo a busca de um elemento no vetor:");
             System.Console.Write("Digite o valor a ser buscado: ");
-            int valor = int.Parse(Console.ReadLine());
+            int valor = Convert.ToInt32(Console.ReadLine());
             bool encontrado = false;
             int posicao = -1;
             for(int i = 0; i < 4; i++){
