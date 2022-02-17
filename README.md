@@ -8,7 +8,9 @@ Exemplos apresentados nas aulas  e atividades implementadas em .NET.<br><br>
 >> [Vetor](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados/Vetor/Program.cs) :heavy_check_mark:<br>
 >> [Matriz](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados/Matriz/Program.cs) :heavy_check_mark:<br>
 >> [Registro](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados/Registro/Program.cs) :heavy_check_mark:<br>
->> [Lista](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Lista/Program.cs) :heavy_check_mark:
+>> [Lista](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Lista/Program.cs) :heavy_check_mark:<br>
+>> [Pilha](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Pilha/Program.cs) :heavy_check_mark:<br>
+>> [Fila](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Fila/Fila.csproj) :heavy_check_mark:
 
 ### Status do projeto:
 🚧 em construção 🚧
