@@ -4,13 +4,15 @@
 
 Repositório para compartilhar algumas das atividades executadas durante o Bootcamp da GFT na palataforma da DIO.<br><br>
 Exemplos apresentados nas aulas  e atividades implementadas em .NET.<br><br>
-> [Módulo: Estrutura de dados](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados) 
->> [Vetor](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados/Vetor/Program.cs) :heavy_check_mark:<br>
->> [Matriz](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados/Matriz/Program.cs) :heavy_check_mark:<br>
->> [Registro](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados/Registro/Program.cs) :heavy_check_mark:<br>
->> [Lista](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Lista/Program.cs) :heavy_check_mark:<br>
->> [Pilha](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Pilha/Program.cs) :heavy_check_mark:<br>
->> [Fila](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Fila/Program.cs) :heavy_check_mark:
+> [Módulo: Estrutura de dados](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados) :heavy_check_mark:
+>> [Vetor](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados/Vetor/Program.cs) <br>
+>> [Matriz](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados/Matriz/Program.cs) <br>
+>> [Registro](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados/Registro/Program.cs) <br>
+>> [Lista](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Lista/Program.cs) <br>
+>> [Pilha](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Pilha/Program.cs) <br>
+>> [Fila](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Fila/Program.cs) <br>
+
+> [Módulo: Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/abstraindo-rpg-com-oo/src) :heavy_check_mark:
 
 ### Status do projeto:
 🚧 em construção 🚧
