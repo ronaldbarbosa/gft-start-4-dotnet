@@ -10,7 +10,7 @@ Exemplos apresentados nas aulas  e atividades implementadas em .NET.<br><br>
 >> [Registro](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados/Registro/Program.cs) :heavy_check_mark:<br>
 >> [Lista](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Lista/Program.cs) :heavy_check_mark:<br>
 >> [Pilha](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Pilha/Program.cs) :heavy_check_mark:<br>
->> [Fila](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Fila/Fila.csproj) :heavy_check_mark:
+>> [Fila](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Fila/Program.cs) :heavy_check_mark:
 
 ### Status do projeto:
 🚧 em construção 🚧
