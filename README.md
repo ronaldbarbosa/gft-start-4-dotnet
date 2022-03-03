@@ -4,6 +4,8 @@
 
 Repositório para compartilhar algumas das atividades executadas durante o Bootcamp da GFT na palataforma da DIO.<br><br>
 Exemplos apresentados nas aulas  e atividades implementadas em .NET.<br><br>
+> [Primeiros passos com .NET](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/primeiros-passos-com-dotnet) ✔️
+
 > [Módulo: Estrutura de dados](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados) :heavy_check_mark:
 >> [Vetor](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados/Vetor/Program.cs) <br>
 >> [Matriz](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/estrutura-de-dados/Matriz/Program.cs) <br>
