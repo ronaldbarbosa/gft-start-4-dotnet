@@ -16,5 +16,7 @@ Exemplos apresentados nas aulas  e atividades implementadas em .NET.<br><br>
 
 > [Módulo: Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/abstraindo-rpg-com-oo/src) :heavy_check_mark:
 
+> [Módulo: Trabalhando com arquivos e streams](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/trabalhando-com-arquivos-e-streams) ✔️
+
 ### Status do projeto:
 🚧 em construção 🚧
