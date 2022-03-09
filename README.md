@@ -14,9 +14,12 @@ Exemplos apresentados nas aulas  e atividades implementadas em .NET.<br><br>
 >> [Pilha](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Pilha/Program.cs) <br>
 >> [Fila](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Fila/Program.cs) <br>
 
-> [Módulo: Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/abstraindo-rpg-com-oo/src) :heavy_check_mark:
+> [Módulo: Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/abstraindo-rpg-com-oo/src) ✔️
 
 > [Módulo: Trabalhando com arquivos e streams](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/trabalhando-com-arquivos-e-streams) ✔️
 
+> [Módulo: Fundamentos de Coleções e LINQ com .NET](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/fundamentos-colecoes-e-linq) ✔️
+>>[Dicionário](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/fundamentos-colecoes-e-linq/Dicionario/Program.cs) <br>
+>>[LINQ](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/fundamentos-colecoes-e-linq/LINQ/Program.cs)
 ### Status do projeto:
 🚧 em construção 🚧
