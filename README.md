@@ -20,6 +20,8 @@ Exemplos apresentados nas aulas  e atividades implementadas em .NET.<br><br>
 
 > [Módulo: Fundamentos de Coleções e LINQ com .NET](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/fundamentos-colecoes-e-linq) ✔️
 >>[Dicionário](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/fundamentos-colecoes-e-linq/Dicionario/Program.cs) <br>
->>[LINQ](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/fundamentos-colecoes-e-linq/LINQ/Program.cs)
+>>[LINQ](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/fundamentos-colecoes-e-linq/LINQ/Program.cs) <br>
+
+> [Desafio de projeto: Criando um APP simples de cadastro de séries em .NET](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/app-series) ✔️
 ### Status do projeto:
 🚧 em construção 🚧
