@@ -14,7 +14,7 @@ Exemplos apresentados nas aulas  e atividades implementadas em .NET.<br><br>
 >> [Pilha](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Pilha/Program.cs) <br>
 >> [Fila](https://github.com/ronaldbarbosa/gft-start-4-dotnet/blob/main/estrutura-de-dados/Fila/Program.cs) <br>
 
-> [Módulo: Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/abstraindo-rpg-com-oo/src) ✔️
+> [Desafio de projeto: Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/abstraindo-rpg-com-oo/src) ✔️
 
 > [Módulo: Trabalhando com arquivos e streams](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/trabalhando-com-arquivos-e-streams) ✔️
 
@@ -24,4 +24,4 @@ Exemplos apresentados nas aulas  e atividades implementadas em .NET.<br><br>
 
 > [Desafio de projeto: Criando um APP simples de cadastro de séries em .NET](https://github.com/ronaldbarbosa/gft-start-4-dotnet/tree/main/app-series) ✔️
 ### Status do projeto:
-🚧 em construção 🚧
+Concluído ✔️
